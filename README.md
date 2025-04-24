@@ -20,7 +20,7 @@ This is a simple console application written in C# to find the missing number in
 
 2. **Navigate to the project directory**:
    ```bash
-   cd MissNumber
+   cd MissNumberFinder
    ```
 
 3. **Build the project**:
